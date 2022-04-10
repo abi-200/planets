@@ -1,1 +1,5 @@
+
 *.dat
+!(c.dat)
+!c.dat
+data/
